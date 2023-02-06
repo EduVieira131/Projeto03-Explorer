@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto 03 - Explorer </h1>
 
 <p align="center">
-O programa Explorer é um curso que visa ensinar programação e pessoas que nunca tiveram contato e desejam ingressar no mercado de trabalho. 
+O programa Explorer é um curso que visa ensinar programação para pessoas que nunca tiveram contato e desejam ingressar no mercado de trabalho. 
 </br>
 
 <p align="center">
